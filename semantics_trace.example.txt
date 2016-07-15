@@ -1,0 +1,60 @@
+过道,400
+b+ab,1
+过道,324
+未开放区域,93
+过道,221
+moussy,1
+过道,821
+过道,43
+Rouge Diamant,2
+过道,2
+Rouge Diamant,3
+Bcuthentique,58
+过道,45
+FIVE PLUS+,47
+过道,59
+TRENDIANO,18
+未开放区域,7
+过道,22
+FIVE PLUS+,3
+过道,5
+TRENDIANO,1
+FIVE PLUS+,3
+TRENDIANO,17
+找茶,2
+TRENDIANO,2
+过道,8
+TRENDIANO,2
+过道,15
+找茶,14
+过道,52
+TRENDIANO,1333
+斯琴,0
+Levi's ladies,889
+过道,13
+JACK&JONES,1
+过道,5
+JACK&JONES,10
+Levi's ladies,2
+过道,1
+Levi's ladies,2
+过道,13
+FIVE PLUS+,29
+过道,28
+FIVE PLUS+,1
+过道,1224
+Vero mada,14
+Jack jones,60
+过道,42
+TEENIE&WEENIE,118
+天井,525
+过道,35
+Surface,20
+TEENIE&WEENIE,4
+过道,3
+TEENIE&WEENIE,12
+过道,17
+Surface,10
+TEENIE&WEENIE,14512
+H&M,833
+未开放区域,0
